@@ -1,0 +1,28 @@
+{
+  "name": "angular-library-renol",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renolmachado/pruebaNG2.git"
+  },
+  "author": {
+    "name": "Renol Machado",
+    "email": "renol94@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renolmachado/pruebaNG2.git/issues"
+  },
+  "main": "angular-library-renol.umd.js",
+  "module": "angular-library-renol.js",
+  "jsnext:main": "angular-library-renol.js",
+  "typings": "angular-library-renol.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
